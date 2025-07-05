@@ -140,7 +140,6 @@ Contributions are very welcome!
 
     Submit a pull request
 
-Help us improve and extend StockMarket.
 🪪 License
 
 MIT License
