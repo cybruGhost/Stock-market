@@ -14,6 +14,7 @@ git clone https://github.com/-market](https://github.com/cybruGhost/Stock-market
 cd stockmarket
 go build ./cmdStock-market
 .Stock-market
+![Screenshot From 2025-07-05 17-39-34](https://github.com/user-attachments/assets/469b8ab3-8983-4f76-91b0-cc83f2fc63eb)
 
     ✅ This will compile and launch StockMarket in your terminal.
 
