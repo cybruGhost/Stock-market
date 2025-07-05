@@ -10,7 +10,7 @@ StockMarket UI
 
 Once Go is installed, follow these steps to build and run:
 
-git clone https://github.com/your-usernameStock-market
+git clone https://github.com/-market](https://github.com/cybruGhost/Stock-market/
 cd stockmarket
 go build ./cmdStock-market
 .Stock-market
