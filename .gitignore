@@ -1,0 +1,24 @@
+# Mac OS
+.DS_Store
+
+# TextMate
+*.tmproj
+tmtags
+
+# Vim
+*.swp
+
+# Atom
+cmdStock-market/debug
+
+# Other
+~*
+*~
+*.*~
+
+# Builds and logs.
+binStock-market*
+logs/*
+Stock-market
+
+.idea
