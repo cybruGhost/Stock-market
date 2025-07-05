@@ -16,7 +16,7 @@ go build ./cmdStock-market
 .Stock-market
 
     ✅ This will compile and launch StockMarket in your terminal.
-![Screenshot From 2025-07-05 16-47-14](https://github.com/user-attachments/assets/c44d1e7c-bb64-44cc-8211-b14881a1732e)
+
 
 ⚙️ Using StockMarket
 
