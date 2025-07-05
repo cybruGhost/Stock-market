@@ -8,18 +8,22 @@ StockMarket UI
     Prerequisite: Go must be installed.
     Download it from: https://go.dev/dl/ and ensure your $GOPATH is properly set.
 
-Once Go is installed, follow these steps to build and run:
+### Once Go is installed, follow these steps to build and run:
 
+
+### Installation Steps
+```bash
 git clone https://github.com/-market](https://github.com/cybruGhost/Stock-market/
 cd stockmarket
 go build ./cmdStock-market
-.Stock-market
+./Stock-market
+```
 ![Screenshot From 2025-07-05 17-39-34](https://github.com/user-attachments/assets/469b8ab3-8983-4f76-91b0-cc83f2fc63eb)
 
-    ✅ This will compile and launch StockMarket in your terminal.
+ ✅ This will compile and launch StockMarket in your terminal.
 
 
-⚙️ Using StockMarket
+# ⚙️ Using StockMarket
 
 By default, StockMarket refreshes stock quotes and market data every 5 minutes (600 seconds).
 You can customize this and other settings in a config file named .stockmarkrc, located in your home directory ($HOME).
@@ -47,7 +51,9 @@ q, Esc	Quit the application
     When adding stocks, enter them as a comma-separated list (e.g., AAPL,TSLA,MSFT).
 
 All preferences, including your stock list, are saved automatically in your profile file:
+```bash
 ~/.stockmarkrc
+```
 🕒 Timestamp Modes
 
 Without Timestamp:
@@ -65,9 +71,9 @@ StockMarket includes a built-in, real-time expression engine for filtering stock
 🪄 Example
 
 Press f and enter:
-
+```
 last <= 5
-
+```
 This filters the list to show only stocks whose last traded price is less than or equal to $5.
 Available Properties for Expressions
 
@@ -119,9 +125,9 @@ Press Shift + F.
 📁 Profile File and Options
 
 Your app configuration is stored in a JSON-formatted file named .stockmarkrc, typically located at:
-
+```
 ~/.stockmarkrc
-
+```
 Example Option
 
 To enable row shading (alternating line colors), add this to your config:
