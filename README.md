@@ -1,4 +1,4 @@
-📈 StockMarket — Track Stocks the Hacker Way
+# 📈 StockMarket — Track Stocks . also not the best  .Go practices
 
 StockMarket is a command-line utility that displays real-time information about selected stock markets and individual tickers — directly from your terminal.
 
