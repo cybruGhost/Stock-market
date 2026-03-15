@@ -7,6 +7,7 @@ tmtags
 
 # Vim
 *.swp
+.env
 
 # Atom
 cmdStock-market/debug
