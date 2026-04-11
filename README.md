@@ -8,7 +8,7 @@ StockMarket UI
     Prerequisite: Go must be installed.
     Download it from: https://go.dev/dl/ and ensure your $GOPATH is properly set.
 
-### Once Go is installed, follow these steps to build and run:
+### Once Go is installed, follow these steps to build and run: NOTE IT RAN IN MY PC
 
 
 ### Installation Steps
